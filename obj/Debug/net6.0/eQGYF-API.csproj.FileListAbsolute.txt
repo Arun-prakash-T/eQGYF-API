@@ -1,0 +1,184 @@
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\appsettings.json
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\eQGYF-API.exe
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\eQGYF-API.deps.json
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\eQGYF-API.runtimeconfig.json
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\eQGYF-API.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\eQGYF-API.pdb
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Dapper.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\MySqlConnector.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.AssemblyReference.cache
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.AssemblyInfoInputs.cache
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.AssemblyInfo.cs
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.CoreCompileInputs.cache
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.eQGYF-API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.build.eQGYF-API.props
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eQGYF-API.props
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eQGYF-API.props
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\scopedcss\bundle\eQGYF-API.styles.css
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.CopyComplete
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.dll
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\refint\eQGYF-API.dll
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.pdb
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\eQGYF-API.genruntimeconfig.cache
+E:\Projects\eQProjects\eQGYF-API\obj\Debug\net6.0\ref\eQGYF-API.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Azure.Core.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Azure.Identity.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Humanizer.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Projects\eQProjects\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\appsettings.Development.json
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\appsettings.json
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\eQGYF-API.exe
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\eQGYF-API.deps.json
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\eQGYF-API.runtimeconfig.json
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\eQGYF-API.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\eQGYF-API.pdb
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\AutoMapper.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Azure.Core.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Azure.Identity.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Dapper.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Humanizer.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\MySqlConnector.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.CodeDom.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Text.Json.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\eQ Project\eQGF\eQGYF-API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.AssemblyReference.cache
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.GeneratedMSBuildEditorConfig.editorconfig
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.AssemblyInfoInputs.cache
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.AssemblyInfo.cs
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.CoreCompileInputs.cache
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.MvcApplicationPartsAssemblyInfo.cs
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.MvcApplicationPartsAssemblyInfo.cache
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.eQGYF-API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.build.eQGYF-API.props
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eQGYF-API.props
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eQGYF-API.props
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets.build.json
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\staticwebassets.development.json
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\scopedcss\bundle\eQGYF-API.styles.css
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.csproj.CopyComplete
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.dll
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\refint\eQGYF-API.dll
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.pdb
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\eQGYF-API.genruntimeconfig.cache
+D:\eQ Project\eQGF\eQGYF-API\obj\Debug\net6.0\ref\eQGYF-API.dll
